@@ -16,6 +16,16 @@
         <module>3.1.1.spring-config-contional</module>
         <module>5.1.1.spring-webmvc-config</module>
         <module>6.1.1.spring-security-config</module>
+        <module>6.2.1.spring-security-memory-config</module>
+        <module>6.2.2.spring-security-database-config</module>
+        <module>9.2.4.spring-security-custome-config</module>
+        <module>9.3.1spring-security-inteceptor-request</module>
+        <module>9.4.1.org-spring-security-authenticate-practise</module>
+        <module>9.4.2.org.spring-security-http-basic-and-rember-me</module>
+        <module>10.2.1.spring-jdbc-jndi-config-practise</module>
+        <module>10.2.2.spring-jdbc-dbcp-config-practise</module>
+        <module>10.2.4.spring-jdbc-template</module>
+        <module>12.1.1.spring-data-mongodb-config</module>
     </modules>
 
     <dependencies>
